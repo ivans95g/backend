@@ -1,0 +1,13 @@
+
+{
+  "name": "3pre",
+  "version": "1.0.0",
+  "description": "cup",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}

@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"title": "cup nike",
+		"description": "Cup Nike Legacy",
+		"price": 20000,
+		"thumbnail": "cup.1jpg",
+		"code": "C001",
+		"stock": 100
+	},
+	{
+		"id": 2,
+		"title": "Cup Nike",
+		"description": "Cup Nike Dri-Fit",
+		"price": 18000,
+		"thumbnail": "cup2.jpg",
+		"code": "C002",
+		"stock": 50
+	},
+	{
+		"id": 3,
+		"title": "Cup Nike",
+		"description": "Cup Nike Kaddygolf",
+		"price": 22000,
+		"thumbnail": "cup3.jpg",
+		"code": "C003",
+		"stock": 25
+	},
+	{
+		"id": 4,
+		"title": "cup nike",
+		"description": "Cup Nike Future True",
+		"price": 37.99,
+		"thumbnail": "cup4.jpg",
+		"code": "C004",
+		"stock": 30
+	}
+]
